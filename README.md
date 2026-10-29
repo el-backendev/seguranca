@@ -121,7 +121,11 @@ O painel abre no navegador em `http://localhost:8501` (ou na porta indicada no t
 
 ## 📸 Demonstração
 
-[Adicione aqui capturas de tela, vídeo ou link para a aplicação publicada.]
+![alt text](image-2.png)
+
+![alt text](image-1.png)
+
+![alt text](image.png) 
 
 ---
 
@@ -151,11 +155,11 @@ O **Kiro** foi utilizado como ferramenta de apoio ao longo de todo o desenvolvim
 - **Tema:** Segurança Pública — Mapa da Violência contra a Mulher
 - **Instituições parceiras:** AWS e Estácio
 - **Ferramenta de desenvolvimento assistido:** Kiro
-- **Evento:** [Nome oficial do hackathon]
-- **Data:** [Data do evento]
+- **Evento:** Hackathon AWS
+- **Data:** 29/10/2026
 
 ---
 
-Desenvolvido pela equipe **[Nome do grupo]** durante o hackathon de Segurança Pública, em parceria com a **AWS** e a **Estácio**, utilizando o **Kiro** como ferramenta de apoio ao desenvolvimento.
+Desenvolvido pela **Equipe 7** durante o hackathon de Segurança Pública, em parceria com a **AWS** e a **Estácio**, utilizando o **Kiro** como ferramenta de apoio ao desenvolvimento.
 
 *Informação, tecnologia e conscientização para apoiar o enfrentamento da violência contra a mulher.*
