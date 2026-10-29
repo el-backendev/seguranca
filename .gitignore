@@ -1,0 +1,11 @@
+# Arquivos brutos grandes da SSP (dados individuais) - nunca versionar
+data/_tmp_*.xlsx
+
+# Ambiente / cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/
+data/_hdr2022.xlsx
+data/_hdr2022.xlsx
